@@ -31,10 +31,6 @@ My name is Alan Joji, and I am currently studying computer science.
 
 <b>GitHub Stats</b>
 
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjoji)](https://github.com/anuraghazra/github-readme-stats)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjoji&hide=contribs,issues&theme=transparent)
 
-
-<b>Top Languages</b>
-
-[![Alan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjoji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
