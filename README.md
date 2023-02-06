@@ -28,9 +28,6 @@ My name is Alan Joji, and I am currently studying computer science.
 </p>
 
 ## Badges
-
-<b>GitHub Stats</b>
-
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanjoji&hide=contribs,issues&theme=transparent)
 
 
